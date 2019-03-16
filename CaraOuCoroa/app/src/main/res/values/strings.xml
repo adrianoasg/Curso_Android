@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CaraOuCoroa</string>
+    <string name="img_logo">img_logo</string>
+    <string name="img_cara">img_cara</string>
+    <string name="img_voltar">img_voltar</string>
+    <string name="img_jogar">img_jogar</string>
+</resources>
